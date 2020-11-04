@@ -1,3 +1,3 @@
 # Instruções
-npm install ou yarn
+npm install ou yarn <br>
 node index.js
